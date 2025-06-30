@@ -1,0 +1,57 @@
+.bg-red{
+    background-color: red;
+}
+.max-width{
+    max-width: 160vb;
+}
+.max-height{
+    max-height: 80vh;
+}
+.margin-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.border{
+    border: 2px solid black;
+}
+.flex{
+    display: flex;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.bg-black{
+    background-color: black;
+}
+.txt-align-center{
+    text-align: center;
+}
+
+.clr-white{
+    color: white;
+}
+.max-width50{
+    max-width: 50%;
+}
+.flex-dxn-col{
+    flex-direction: column;
+}
+.f-size-L{
+    font-size: large;
+}
+.bold{
+    font-weight: bolder;
+}
+
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.min-height-50{
+    min-height: 50%;
+}
